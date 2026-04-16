@@ -1,67 +1,48 @@
 import Link from "next/link";
-import type { ReactNode } from "react";
 
-const TAGS: { label: string; href: string; icon: ReactNode }[] = [
+const TAGS = [
   {
     label: "Hot flashes",
     href: "/collections/menopause-support",
-    icon: (
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-        <path d="M12.3 2s.8 2.6-1.1 5c-2.4 3-3.7 4.8-3.7 7.6A5.8 5.8 0 0 0 13.4 20c3.2.3 6-2 6.4-5.1.4-2.8-.9-4.9-2-6.5-.1 1-1 1.8-1.9 1.7-1.2-.1-1.8-1.3-1.5-2.4.4-1.5.5-3.6-2.1-5.7z" />
-      </svg>
-    ),
+    icon: "https://earthful.me/cdn/shop/files/dd54008c5211ce992912f4e5d8ce9935a2358084.png?v=1754290882",
   },
   {
     label: "Plant protein",
     href: "/collections/plant-protein",
-    icon: <CapsuleIcon />,
+    icon: "https://earthful.me/cdn/shop/files/261b8b8e048b59d1037fdb5d929fd45515ff398a_2.png?v=1757942856",
   },
   {
     label: "Vegan Calcium",
-    href: "/products/bone",
-    icon: <CapsuleIcon />,
+    href: "/collections/multivitamin",
+    icon: "https://earthful.me/cdn/shop/files/6674d10f7f05befbe14be9f17c7419a14b4721d4.png?v=1757942761",
   },
   {
     label: "Menopause Multivitamin",
-    href: "/products/womenmulti50",
-    icon: <CapsuleIcon />,
+    href: "/collections/menopause-support",
+    icon: "https://earthful.me/cdn/shop/files/6674d10f7f05befbe14be9f17c7419a14b4721d4.png?v=1757942761",
   },
   {
     label: "Magnesium",
-    href: "/products/earthful-marine-magnesium-powder",
-    icon: <CapsuleIcon />,
+    href: "/collections/sleep-stress-support",
+    icon: "https://earthful.me/cdn/shop/files/261b8b8e048b59d1037fdb5d929fd45515ff398a_2.png?v=1757942856",
   },
 ];
-
-function CapsuleIcon() {
-  return (
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none">
-      <path
-        d="M8.5 3.5a5 5 0 0 0-5 5v7a5 5 0 0 0 10 0v-7a5 5 0 0 0-5-5zM3.5 12h10"
-        stroke="currentColor"
-        strokeWidth="1.6"
-        strokeLinecap="round"
-        transform="rotate(-35 10 12)"
-      />
-    </svg>
-  );
-}
 
 export default function TrendingSearches() {
   return (
     <section className="bg-cream">
-      <div className="container-page py-14 md:py-20">
-        <h2 className="text-4xl md:text-[52px] font-heading text-center leading-tight">
+      <div className="container-page py-8 md:py-12">
+        <h2 className="text-3xl md:text-[40px] font-heading text-center leading-tight italic">
           Trending Searches
         </h2>
-        <div className="mt-10 flex flex-wrap justify-center gap-3 md:gap-4 max-w-3xl mx-auto">
+        <div className="mt-6 flex flex-wrap justify-center gap-3 max-w-2xl mx-auto">
           {TAGS.map((t) => (
             <Link
               key={t.label}
               href={t.href}
-              className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-ink/80 text-[15px] font-normal hover:bg-ink hover:text-white transition-colors"
+              className="inline-flex items-center gap-2 px-5 py-2 rounded-full border border-ink/60 text-[15px] hover:bg-ink hover:text-white transition-colors"
             >
-              <span className="shrink-0">{t.icon}</span>
+              <img src={t.icon} alt="" width="20" height="20" className="shrink-0" />
               {t.label}
             </Link>
           ))}

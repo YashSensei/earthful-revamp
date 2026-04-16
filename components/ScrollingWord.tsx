@@ -7,38 +7,60 @@ const WORDS = ["Synthetic", "Artificial", "Harmful", "Unnecessary"];
 export default function ScrollingWord() {
   const [idx, setIdx] = useState(0);
   useEffect(() => {
-    const t = setInterval(() => setIdx((i) => (i + 1) % WORDS.length), 2200);
+    const t = setInterval(() => setIdx((i) => (i + 1) % WORDS.length), 1800);
     return () => clearInterval(t);
   }, []);
 
   return (
-    <section className="bg-earth-orange/60">
-      <div className="container-page py-16 md:py-24 text-center">
-        <p className="text-4xl md:text-7xl font-heading italic leading-[1.1]">
-          <span className="text-5xl md:text-8xl align-top">“</span> We don&apos;t
-          add anything
-        </p>
-        <p className="mt-6 text-4xl md:text-7xl font-heading">
-          <span
-            key={idx}
-            className="inline-block min-w-[280px] md:min-w-[500px] border-b-2 border-ink pb-1 transition-opacity duration-300 animate-[fadein_400ms_ease-out]"
-          >
-            {WORDS[idx]}
-          </span>
-        </p>
-        <style jsx>{`
-          @keyframes fadein {
-            from {
-              opacity: 0;
-              transform: translateY(10px);
-            }
-            to {
-              opacity: 1;
-              transform: translateY(0);
-            }
-          }
-        `}</style>
+    <section className="bg-cream">
+      <div className="container-page py-14 md:py-20">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-0 items-center">
+          {/* Left — text */}
+          <div className="md:pr-12">
+            <span className="text-[80px] md:text-[120px] font-heading text-ink/15 leading-none select-none">
+              &ldquo;
+            </span>
+            <h2 className="font-heading text-3xl md:text-[46px] leading-tight -mt-8 md:-mt-14">
+              We don&rsquo;t add anything
+            </h2>
+            <p
+              key={idx}
+              className="mt-4 font-heading text-4xl md:text-[56px] text-earth-olive italic leading-tight animate-[fadeSlide_500ms_ease-out]"
+            >
+              {WORDS[idx]}
+            </p>
+          </div>
+
+          {/* Right — product image */}
+          <div>
+            <picture>
+              <source
+                media="(min-width: 768px)"
+                srcSet="https://earthful.me/cdn/shop/files/Scrolling_word_Image_1_59f54aad-e271-48f3-8203-bb1fbc0fc1d8.webp?v=1767073509&width=750"
+              />
+              <img
+                src="https://earthful.me/cdn/shop/files/Scrolling_word_Image_1_59f54aad-e271-48f3-8203-bb1fbc0fc1d8.webp?v=1767073509&width=750"
+                alt="Earthful products — Calcium, Women Multivitamin 40+, Women Multivitamin 18+"
+                className="w-full h-auto"
+                loading="lazy"
+              />
+            </picture>
+          </div>
+        </div>
       </div>
+
+      <style jsx>{`
+        @keyframes fadeSlide {
+          from {
+            opacity: 0;
+            transform: translateY(12px);
+          }
+          to {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+      `}</style>
     </section>
   );
 }

@@ -10,6 +10,7 @@ import FoodFirst from "@/components/FoodFirst";
 import FeaturedIn from "@/components/FeaturedIn";
 import InstaCommunity from "@/components/InstaCommunity";
 import Newsletter from "@/components/Newsletter";
+import FooterBanner from "@/components/FooterBanner";
 
 export default function HomePage() {
   return (
@@ -26,6 +27,7 @@ export default function HomePage() {
       <FeaturedIn />
       <InstaCommunity />
       <Newsletter />
+      <FooterBanner />
     </>
   );
 }

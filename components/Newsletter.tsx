@@ -7,30 +7,30 @@ export default function Newsletter() {
   const [sent, setSent] = useState(false);
 
   return (
-    <section className="bg-earth-orange/70">
-      <div className="container-page py-16 md:py-20 text-center">
-        <p className="display tracking-widest text-xs md:text-sm mb-4">
-          I WANT TO GET HEALTHIER
-        </p>
-        <h2 className="text-3xl md:text-5xl font-heading leading-tight max-w-2xl mx-auto">
-          Get the latest health news in your inbox!
+    <section className="bg-cream">
+      <div className="container-page py-10 md:py-14 text-center">
+        <h2 className="text-3xl md:text-[44px] font-heading leading-tight">
+          I want to get healthier
         </h2>
+        <p className="mt-3 text-[13px] md:text-sm tracking-[0.2em] text-ink/80 uppercase">
+          Get the latest health news in your inbox!
+        </p>
         <form
           onSubmit={(e) => {
             e.preventDefault();
             setSent(true);
           }}
-          className="mt-8 flex flex-col sm:flex-row gap-3 max-w-xl mx-auto"
+          className="mt-6 flex items-stretch max-w-md mx-auto border border-ink"
         >
           <input
             type="email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
-            placeholder="Enter your email"
+            placeholder="Enter Your Email"
             required
-            className="flex-1 bg-white/70 border border-ink px-5 py-3 rounded-full outline-none focus:bg-white placeholder:text-ink/50"
+            className="flex-1 bg-transparent px-4 py-3 outline-none text-sm placeholder:text-ink/60"
           />
-          <button className="btn-primary rounded-full px-8">
+          <button className="bg-transparent text-ink px-6 py-3 text-sm font-medium border-l border-ink hover:bg-ink hover:text-white transition">
             {sent ? "Subscribed" : "Subscribe"}
           </button>
         </form>

@@ -54,24 +54,94 @@ export function formatRupee(n: number): string {
 
 export const HOMEPAGE_BESTSELLERS = [
   "womenmulti50",
-  "bone",
-  "multivitamin-women-40-calcium-d3-k2",
-  "earthful-marine-magnesium-powder",
-  "complete-menopause-care-combo",
-  "multivitamin-18",
-  "menmultivitamin",
-  "teens-multivitamin",
-  "multivitamin-women-40-root-nourish-capsules",
-  "multivitamin-women-40-marine-magnesium-powder",
   "plant-protein",
-  "honest-plant-protein-vanilla",
+  "bone",
+  "multivitamin-18",
+  "multivitamin-women-40-calcium-d3-k2",
   "honest-plant-protein-mango",
-  "honest-plant-protein-japanese-matcha",
-  "honest-plant-protein-coffee-mocha-1",
-  "honest-plant-protein-unflavoured-1",
-  "sleep",
   "hair",
-  "pcos-balance-inositol-chasteberry",
-  "skin",
   "monksweet",
+  "honest-plant-protein-assorted-pack",
+  "honest-plant-protein-unflavoured-1",
 ];
+
+export const PRODUCT_META: Record<
+  string,
+  { netLabel: string; reviews: number; score: number }
+> = {
+  womenmulti50: { netLabel: "Net Quantity: 60 Capsules", reviews: 4484, score: 4.87 },
+  "plant-protein": { netLabel: "Net Weight: 504g", reviews: 1179, score: 4.79 },
+  bone: { netLabel: "Net Quantity: 60 Capsules", reviews: 928, score: 4.83 },
+  "multivitamin-18": { netLabel: "Net Quantity: 60 Capsules", reviews: 380, score: 4.83 },
+  "multivitamin-women-40-calcium-d3-k2": {
+    netLabel: "Net Quantity: 2 × 60 capsules",
+    reviews: 786,
+    score: 4.75,
+  },
+  "honest-plant-protein-mango": { netLabel: "Net Weight: 504g", reviews: 1179, score: 4.79 },
+  hair: { netLabel: "Net Quantity: 30 Capsules", reviews: 331, score: 4.79 },
+  monksweet: { netLabel: "Net Quantity: 33 grams", reviews: 21, score: 4.62 },
+  "honest-plant-protein-assorted-pack": {
+    netLabel: "Net Weight: 6 x 42g, 2 x 37g, 2 x 36g",
+    reviews: 1179,
+    score: 4.79,
+  },
+  "honest-plant-protein-unflavoured-1": {
+    netLabel: "Net Weight: 504g",
+    reviews: 1179,
+    score: 4.79,
+  },
+  menmultivitamin: { netLabel: "Net Quantity: 60 Capsules", reviews: 420, score: 4.82 },
+  "teens-multivitamin": { netLabel: "Net Quantity: 60 Capsules", reviews: 290, score: 4.78 },
+  sleep: { netLabel: "Net Quantity: 60 Capsules", reviews: 214, score: 4.77 },
+  skin: { netLabel: "Net Quantity: 60 Capsules", reviews: 182, score: 4.72 },
+  "pcos-balance-inositol-chasteberry": {
+    netLabel: "Net Quantity: 60 Capsules",
+    reviews: 168,
+    score: 4.8,
+  },
+  "earthful-marine-magnesium-powder": {
+    netLabel: "Net Weight: 150g",
+    reviews: 212,
+    score: 4.74,
+  },
+  "complete-menopause-care-combo": {
+    netLabel: "Net Quantity: 3 × 60 capsules",
+    reviews: 94,
+    score: 4.76,
+  },
+  "multivitamin-women-40-root-nourish-capsules": {
+    netLabel: "Net Quantity: 60 + 30 capsules",
+    reviews: 312,
+    score: 4.78,
+  },
+  "multivitamin-women-40-marine-magnesium-powder": {
+    netLabel: "Net Quantity: 60 capsules + 150g",
+    reviews: 287,
+    score: 4.76,
+  },
+  "honest-plant-protein-vanilla": { netLabel: "Net Weight: 504g", reviews: 542, score: 4.8 },
+  "honest-plant-protein-japanese-matcha": { netLabel: "Net Weight: 504g", reviews: 318, score: 4.78 },
+  "honest-plant-protein-coffee-mocha-1": { netLabel: "Net Weight: 504g", reviews: 412, score: 4.79 },
+  "honest-plant-protein-berry-blast": { netLabel: "Net Weight: 504g", reviews: 221, score: 4.76 },
+  "honest-plant-protein-apple": { netLabel: "Net Weight: 504g", reviews: 164, score: 4.74 },
+  "kids-millet-mix": { netLabel: "Net Weight: 300g", reviews: 64, score: 4.7 },
+  "multivitamin-women-40-calcium-d3-k2-1": {
+    netLabel: "Net Quantity: 2 × 60 capsules",
+    reviews: 786,
+    score: 4.75,
+  },
+  menocool: { netLabel: "Net Quantity: 60 Capsules", reviews: 34, score: 4.65 },
+  "myndlift-for-brain-fog": { netLabel: "Net Quantity: 60 Capsules", reviews: 28, score: 4.68 },
+  "free-product": { netLabel: "1 Sachet", reviews: 0, score: 5.0 },
+};
+
+export function getMeta(handle: string) {
+  return (
+    PRODUCT_META[handle] || {
+      netLabel: "Net Quantity: 60 Capsules",
+      reviews: 100,
+      score: 4.8,
+    }
+  );
+}
