@@ -1,0 +1,1459 @@
+[
+  {
+    "id": 7496560115896,
+    "handle": "free-product",
+    "title": "Cocoa Protein Single Sachet",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "free-product"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_09b1e683-c9cc-4275-afdc-fb7be6f93078.jpg?v=1711013392",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/2_07561195-79b1-4c5d-939e-22cae915fb76.png?v=1758953771",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_066dec8f-35dc-41c6-8398-21dab7b4ea33.png?v=1758953771",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/8-sachet_d9bf1fb9-efbc-45cc-96b4-156cb11dc8e3.jpg?v=1758953771",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/9-sachet_65d5aa91-3171-4a07-b76e-2c8865d2fae2.jpg?v=1758953771",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/10_37f87688-ed91-44d1-aae7-2313a9239d28.jpg?v=1758953771"
+    ],
+    "variants": [
+      {
+        "id": 43136408453304,
+        "title": "Default Title",
+        "price": 108.8,
+        "compare_at_price": 124.5,
+        "sku": "cocoa_single_sachet",
+        "available": true
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 10136379916472,
+    "handle": "myndlift-for-brain-fog",
+    "title": "MyndLift - For Focus during Brain Fog",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/2_9423c1f3-2013-4bfd-80e9-eb20028d484b.png?v=1774878197",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/3_4f42eb78-ecb9-4082-adc1-dfd8cadd2c51.png?v=1774878197",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/4_8140c13f-7a78-4985-ad05-9de89a1d4981.png?v=1774878197",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/5_ddf0a65a-c724-40b9-a8ca-585734449d99.png?v=1774878197",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_a5429c3b-0bc3-447f-986d-9783c5038519.png?v=1774878197",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_92c95c77-0f89-44ec-9113-a8a05fea7665.png?v=1774878197",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/8_917460db-bc3a-41b4-9c24-d3aa80b41530.png?v=1774878197",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/10_c8eb6364-946d-4ed8-8276-86beebb659e4.png?v=1774878197",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WN_myndlift.jpg?v=1774878197",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Myndlift_-1.jpg?v=1775215995",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Myndlift_-2.jpg?v=1775215995"
+    ],
+    "variants": [
+      {
+        "id": 52261118476472,
+        "title": "Default Title",
+        "price": 549.0,
+        "compare_at_price": 699.0,
+        "sku": "Mynd_Lift",
+        "available": true
+      }
+    ],
+    "description": "MyndLift is a plant-based supplement with natural herbs like Tulsi, Bacopa, and Ginkgo. Supports mental clarity and focus. Helps reduce forgetfulness."
+  },
+  {
+    "id": 10136379752632,
+    "handle": "menocool",
+    "title": "MenoCool - Helps Manage Hot Flashes",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MENOCOOL_new_launch_sticker.webp?v=1771050196",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Menocool_final_3.webp?v=1771050196",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WN_menocool.jpg?v=1773294584",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Menocool_final_5.webp?v=1773294584",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_13113be0-4bda-414b-9dce-9cbff66b2ace.png?v=1773294584",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Menocool_final_8.webp?v=1773294584",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Menocool_final_9.webp?v=1773294584",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Menocool_-1.jpg?v=1775216159",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Menocool_-2.jpg?v=1775216159"
+    ],
+    "variants": [
+      {
+        "id": 52261118312632,
+        "title": "Default Title",
+        "price": 549.0,
+        "compare_at_price": 699.0,
+        "sku": "Meno_cool",
+        "available": true
+      }
+    ],
+    "description": "MenoCool is a plant-based wellness blend crafted to bring a sense of cooling comfort, calm, and balance during lifes natural transitions. Its formulated with traditional botanicals like Ashwagandha, Hops, Shatavari, and Black Cohosh  known for promoting relaxation and inner composure."
+  },
+  {
+    "id": 10017220395192,
+    "handle": "earthful-marine-magnesium-powder",
+    "title": "Marine Magnesium Powder",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "Whatsapp Shop All"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_2_62f0044e-fe93-4136-bfc1-5ac738116c0a.png?v=1751892492",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/2_2_b7796fd9-fb8a-4257-a6db-617e0e40db16.png?v=1751892492",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/3_3_9f8369af-11b2-4e80-8c42-2802d1aaf41b.png?v=1751892492",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MGPOWDERLISTINGIMAGEamazon.png?v=1772711635",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MG_POWDER_LISTING_IMAGE.png?v=1772711635",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/5_1_1b578af5-a264-4fe2-9ab9-a2e08f322c3b.png?v=1772711635",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Marine_Mag_Powder-1.jpg?v=1775213474",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Marine_Mag_Powder-2.jpg?v=1775213474",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_1.png?v=1775213474",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Magnesium_Powder.png?v=1775213474"
+    ],
+    "variants": [
+      {
+        "id": 51502009057464,
+        "title": "Pack of 1",
+        "price": 544.0,
+        "compare_at_price": 622.0,
+        "sku": "Magnesium_powder",
+        "available": false
+      },
+      {
+        "id": 51502009090232,
+        "title": "Pack of 2",
+        "price": 1087.0,
+        "compare_at_price": 1244.0,
+        "sku": "Magnesium_powder Pack of 2",
+        "available": false
+      },
+      {
+        "id": 51502009123000,
+        "title": "Pack of 3",
+        "price": 1631.0,
+        "compare_at_price": 1866.0,
+        "sku": "Magnesium_powder Pack of 3",
+        "available": false
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 10038504882360,
+    "handle": "complete-menopause-care-combo",
+    "title": "Menopause Wellness Kit",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "multivitamin",
+      "new",
+      "Whatsapp Shop All"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_3b36ebc6-de79-4c6a-a1e4-530150101d74.png?v=1754026060",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/women_mv18_WMV_40_3.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_57_3_3_9f8369af-11b2-4e80-8c42-2802d1aaf41b.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/calciumingredients.jpg?v=1774525546",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_67_6_87fb010e-7334-40ee-9da8-58c0e0efa8df.png?v=1774450045",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_70_Calcium_3_84f468a8-91b7-4574-ba2b-0e75282be536.png?v=1774450045",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_59_MG_POWDER_LISTING_IMAGE.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_58_MGPOWDERLISTINGIMAGEamazon.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_73_Calcium2-03-2026_1_6cd36272-7f25-4a75-a6c9-e011b9b291fc.png?v=1774450045",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_65_women40_fc28b6d8-dfe4-4d4e-a78e-d23984d22983.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_80_Calcium_D3_K2_d6db9500-6069-471f-913f-73ef8b151129.png?v=1774450045",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_62_Magnesium_Powder.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_71_7_0742d0ce-bf69-4335-8279-3734ff101b42.jpg?v=1774450045",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_72_9_7d7f8c6e-0398-431c-a57a-2435a4f21d8c.jpg?v=1774450045",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MV40_-1.jpg?v=1775213326",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MV40_-2.jpg?v=1775213326",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Marine_Mag_Powder-1.jpg?v=1775213474",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Marine_Mag_Powder-2.jpg?v=1775213474"
+    ],
+    "variants": [
+      {
+        "id": 51605515468984,
+        "title": "Default Title",
+        "price": 1722.0,
+        "compare_at_price": 1955.0,
+        "sku": "MV40_Bone_Magnesium Powder_combo",
+        "available": false
+      }
+    ],
+    "description": "Multivitamin Women 40+, Calcium+D3+K2, and Marine Magnesium for menopause care. All the nutrients are nature-based. No synthetics or harmful chemicals. Helps with hormonal balance, easing hot flashes, knee pain, mood swings, &amp; more."
+  },
+  {
+    "id": 10038536732856,
+    "handle": "multivitamin-women-40-marine-magnesium-powder",
+    "title": "Multivitamin Women 40+ & Marine Magnesium Powder",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "multivitamin",
+      "new",
+      "Whatsapp Shop All"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_1147ec9c-ef04-4e7d-8f48-e3b4bb957674.png?v=1754112546",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/women_mv18_WMV_40_3.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_62_6_d3fa1663-282b-4e33-9ce7-72896fd806d6.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_febc562e-eca6-4a6d-bc54-6c46eb5274f9.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_58_MGPOWDERLISTINGIMAGEamazon.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_57_3_3_9f8369af-11b2-4e80-8c42-2802d1aaf41b.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_59_MG_POWDER_LISTING_IMAGE.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_61_7_f9f32ddb-7a71-4768-90a9-9941769112dc.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_64_5_f3b51f74-8b31-416c-9f01-c91999f5149a.jpg?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_63_Mv_40_Magnesium_Combo_Listing.webp?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_65_women40_fc28b6d8-dfe4-4d4e-a78e-d23984d22983.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/imgi_62_Magnesium_Powder.png?v=1774450149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MV40_-1.jpg?v=1775213326",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MV40_-2.jpg?v=1775213326",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Marine_Mag_Powder-1.jpg?v=1775213474",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Marine_Mag_Powder-2.jpg?v=1775213474"
+    ],
+    "variants": [
+      {
+        "id": 51605579595960,
+        "title": "Default Title",
+        "price": 1178.0,
+        "compare_at_price": 1333.0,
+        "sku": "Mv40 and Magnesium Powder combo",
+        "available": false
+      }
+    ],
+    "description": "A clean, plant-based combo for women 40+ to support hormonal balance, reduce stress, improve sleep, and boost energy. Made with nutrients like Vitamin C from Amla, Magnesium from Irish sea waters, as well as containing traditional herbs like shatavari &amp; gokshura. No added synthetics or additives."
+  },
+  {
+    "id": 10072014454968,
+    "handle": "monksweet",
+    "title": "MonkSweet - Sweetness from Monk Fruit",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "monksweet",
+      "multivitamin",
+      "new",
+      "Plant Protein",
+      "Whatsapp Shop All"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Monkfruit_6.webp?v=1761850793",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Monkfruit_3.webp?v=1761850793",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WN_monksweet_ad7eea86-249e-4e33-b0cf-50f08c829822.jpg?v=1773294889",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MONKSWEET.png?v=1773294889",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Monkfruit_4.webp?v=1773294889",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Monkfruit_2.webp?v=1773294889",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Monkfruit_5.webp?v=1773294889"
+    ],
+    "variants": [
+      {
+        "id": 53361272946872,
+        "title": "Pack of 1",
+        "price": 599.0,
+        "compare_at_price": 699.0,
+        "sku": "MonkSweet_Powder",
+        "available": true
+      },
+      {
+        "id": 53361272979640,
+        "title": "Pack of 2",
+        "price": 1188.0,
+        "compare_at_price": 1398.0,
+        "sku": "MonkSweet_Powder Pack of 2",
+        "available": true
+      },
+      {
+        "id": 53361273012408,
+        "title": "Pack of 3",
+        "price": 1762.0,
+        "compare_at_price": 2097.0,
+        "sku": "MonkSweet Powder Pack of 3",
+        "available": true
+      }
+    ],
+    "description": "- Natural replacement to refined sugar - Made from Monk Fruit  a plant-based, zero-calorie sweetener that does not spike blood sugar and Gut-Friendly Guar Fiber - Supports blood sugar balance &amp; gut health - No erythritol or polyols that can cause bloating or gut sensitivity. (Unlike most sweeteners, MonkSweet is erythritol-free) - 1 scoop (0.6 g) provides sweetness equivalent to approximately 34 g of regular sugar. - Expertly formulated by doctors, nutritionists - FSSAI &amp; GMP approved"
+  },
+  {
+    "id": 9913504727224,
+    "handle": "multivitamin-women-40-root-nourish-capsules",
+    "title": "Multivitamin Women 40+ & Root Nourish Capsules",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "multivitamin",
+      "new",
+      "Whatsapp Shop All"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_0c4334fd-53e2-4b9c-a0e2-ffbf29524814.jpg?v=1741268521",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/women_mv18_WMV_40_3.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_f0347346-c62e-464b-bf39-f302bb500e83.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/5_b101a92d-94a2-4096-887b-5614f1e6378e.jpg?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_9289bf3d-8962-4166-8aa6-5bb584e838db.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/RootNourishCapsules_1bc2f791-0a9b-4cf2-a211-f48df003bf3b.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_917f7477-a5f7-44b4-8162-6ddd97b6bcf7.jpg?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/women40_fc28b6d8-dfe4-4d4e-a78e-d23984d22983.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Root_Nourish_-1.jpg?v=1775214313",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Root_Nourish_-2.jpg?v=1775214313",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MV40_-1.jpg?v=1775213326",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MV40_-2.jpg?v=1775213326"
+    ],
+    "variants": [
+      {
+        "id": 50945835958456,
+        "title": "Default Title",
+        "price": 1292.0,
+        "compare_at_price": 1422.0,
+        "sku": "Mv40 and Hair combo",
+        "available": true
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 9900747882680,
+    "handle": "multivitamin-women-40-calcium-d3-k2-1",
+    "title": "Multivitamin Women 40+ & Calcium+D3+K2",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "new",
+      "Whatsapp Shop All"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_57011379-9cb8-41d0-ad9e-74b3daf3fe04.png?v=1740581037",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/women_mv18_WMV_40_3.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/calcium_ingredients.jpg?v=1774450126",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Calcium2-03-2026_1_e591179a-8617-40f7-83b8-a066a1269011.png?v=1774450126",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_9a860a95-d478-4440-b636-8c06ac19dcff.png?v=1774450126",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Calcium_3_f74d986d-0bbb-4ba5-aefb-77f58efbff3c.png?v=1774450126",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_1.jpg?v=1774450126",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/women40_fc28b6d8-dfe4-4d4e-a78e-d23984d22983.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Calcium_D3_K2_d6db9500-6069-471f-913f-73ef8b151129.png?v=1774450126"
+    ],
+    "variants": [
+      {
+        "id": 50892777390264,
+        "title": "Default Title",
+        "price": 1178.0,
+        "compare_at_price": 1333.0,
+        "sku": "Mv40andCalcium combo",
+        "available": true
+      }
+    ],
+    "description": "A clean, plant-based combo for women 40+ to support bone strength, hormonal balance, energy, and overall health during menopause. With nutrients like Calcium from algae, Vitamin D3 from lichen, and Vitamin C from Amla. No harmful synthetics or chemicals."
+  },
+  {
+    "id": 7445440594104,
+    "handle": "kids-millet-mix",
+    "title": "Kids Millet Mix",
+    "vendor": "Earthful",
+    "product_type": "Health & Beauty",
+    "tags": [
+      "Men",
+      "old",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_860d4246-1b0c-46b3-8488-88e2ccdc2b99.png?v=1740576773",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/2_a32a7794-1164-4815-aeae-cbbb8a5772e6.png?v=1740576773",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/3_1.jpg?v=1751540089",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/kidsmillet.png?v=1772715645",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/4_79bce7dd-549e-47d7-b288-f583e241546d.jpg?v=1772715645",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_db2b7092-7cf2-4083-ba99-1d31aecd69fc.jpg?v=1772715645",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/kids_reports_page-0001.jpg?v=1772715645",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/kids_reports_page-0002.jpg?v=1772715645",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/NutriDrink.png?v=1772446665"
+    ],
+    "variants": [
+      {
+        "id": 51001947750584,
+        "title": "Pack of 1",
+        "price": 516.0,
+        "compare_at_price": 533.0,
+        "sku": "KIDS_MILLET",
+        "available": true
+      },
+      {
+        "id": 51001947783352,
+        "title": "Pack of 2",
+        "price": 1022.0,
+        "compare_at_price": 1066.0,
+        "sku": "KIDS_MILLET Pack of 2",
+        "available": true
+      },
+      {
+        "id": 51001947816120,
+        "title": "Pack of 3",
+        "price": 1517.0,
+        "compare_at_price": 1599.0,
+        "sku": "KIDS_MILLET Pack of 3",
+        "available": true
+      }
+    ],
+    "description": "A clean milk mix for kids. With supergrains like ragi, jowar, barley and goodness of protein, vitamin D3 and calcium. Natural, free from artificial flavours, refined sugar and other junk. Get a yummy chocolaty taste from real cocoa and sweetness from monk fruit &amp; jaggery."
+  },
+  {
+    "id": 9081853903032,
+    "handle": "honest-plant-protein-assorted-pack",
+    "title": "Honest Plant Protein - Assorted Pack",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "Men",
+      "old",
+      "Plant Protein",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_8ccbd809-b3ce-4f04-9f01-6b4b3ea631da.png?v=1740577531",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/2_6b662539-7bba-48ac-a245-46af6668072d.png?v=1740577531",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/3_30.jpg?v=1740577531",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/4_10.jpg?v=1740577531",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/5_8.jpg?v=1740577531",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_6.jpg?v=1740577531",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_16a3ca2a-c95e-4d37-90d6-8456ad8bdbb9.jpg?v=1740577531",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/8_288102a1-7c04-490f-bc84-109890b57cd8.jpg?v=1740577531",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Vanilla37g.png?v=1765955584",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/cocoa42g.png?v=1765955584",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mango42g_41d74a55-3588-4e78-b595-3e6fca984414.png?v=1765955584",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Matcha36g.png?v=1765955584",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mocha42g.png?v=1765955584"
+    ],
+    "variants": [
+      {
+        "id": 48142262534328,
+        "title": "Default Title",
+        "price": 1324.0,
+        "compare_at_price": 1426.0,
+        "sku": "ASSORTED_PROTEIN",
+        "available": true
+      }
+    ],
+    "description": "A clean, plant-based protein made from a perfect blend of pea and brown rice, giving you 9 essential amino acids your body needs. The perfect assorted pack of 10 sachets containing Alphonso Mango, Indonesian Cocoa, Madagascar Vanilla, Japanese Matcha, and Coffee Mocha (2 each). All from natural ingredients, no synthetic flavours and no artificial additives. Made for men and women."
+  },
+  {
+    "id": 9266246418616,
+    "handle": "honest-plant-protein-japanese-matcha",
+    "title": "Honest Plant Protein - Japanese Matcha",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "Men",
+      "new",
+      "old",
+      "Plant Protein",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Matcha.webp?v=1761228386",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Matcha12March_2.png?v=1773293707",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Matcha12March_5.png?v=1773293707",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_955d79c9-5327-48b1-bb2f-d62fc9cb67ef.png?v=1773293707",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_5e208a96-9101-41ca-b49e-ce831e4f717d.png?v=1773293707",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_c0cb61d0-9ecd-4faf-9054-c92a4bc2017c.jpg?v=1773293707",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Matcha_1.webp?v=1773293707",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM_1.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Matchareport_page-0001edited.jpg?v=1774876187",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Matchareport_page-0002.jpg?v=1774876187",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Matcha12March_6.png?v=1774876187",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_6.jpg?v=1774876187",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Matcha12March_9.png?v=1774876187",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/16_5567e0f7-93b4-487a-9fc7-fe15a60e8ad7.png?v=1774876187",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Matcha12March_11.png?v=1774876187",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/5_5.jpg?v=1774876187",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Matcha12March_12.png?v=1774876187"
+    ],
+    "variants": [
+      {
+        "id": 48793961398456,
+        "title": "Pack of 1",
+        "price": 1378.0,
+        "compare_at_price": 1378.0,
+        "sku": "Honest Plant Protein - Matcha",
+        "available": true
+      },
+      {
+        "id": 50976606847160,
+        "title": "Pack of 2",
+        "price": 2503.0,
+        "compare_at_price": 2757.0,
+        "sku": "Honest Plant Protein - Matcha - 1kg",
+        "available": true
+      },
+      {
+        "id": 50976606879928,
+        "title": "Pack of 3",
+        "price": 3672.0,
+        "compare_at_price": 4135.0,
+        "sku": "Honest Plant Protein - Matcha - 1.5kg",
+        "available": true
+      },
+      {
+        "id": 48793961431224,
+        "title": "6 sachets",
+        "price": 861.0,
+        "compare_at_price": 880.0,
+        "sku": "PROTEIN-SACHET-JAPANESE MATCHA",
+        "available": true
+      }
+    ],
+    "description": "A clean, plant-based protein made with yellow peas and brown rice for 24g of protein, with authentic Japanese matcha for a smooth, earthy taste. No thickeners, emulsifiers, or preservatives. Just clean nutrition to support muscle recovery, energy and immunity."
+  },
+  {
+    "id": 9266239897784,
+    "handle": "honest-plant-protein-unflavoured-1",
+    "title": "Honest Plant Protein - Unflavoured",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "Men",
+      "new",
+      "Plant Protein",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Unflavour.webp?v=1761228441",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Unflavoured_12_March_2.png?v=1773292563",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_398ca420-2ef5-402f-bea8-1a41a07efc00.png?v=1773292563",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Unflavoured_12_March_5.png?v=1773292563",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/5_ed595dfa-1626-43e5-960d-5f79c59a1744.png?v=1773292563",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM_1.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/unflavouredreport_page-0002.jpg?v=1774876221",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/unflavouredreport_page-0001.jpg?v=1774876221",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Unflavoured_12_March_6.png?v=1774876221",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_40b45f2d-53bf-4ec9-b745-5dcd13e05a00.jpg?v=1774876221"
+    ],
+    "variants": [
+      {
+        "id": 48804441915576,
+        "title": "Pack of 1",
+        "price": 1224.0,
+        "compare_at_price": 1289.0,
+        "sku": "Honest Plant Protein -Unflavored",
+        "available": true
+      },
+      {
+        "id": 50982521438392,
+        "title": "Pack of 2",
+        "price": 2268.0,
+        "compare_at_price": 2579.0,
+        "sku": "Honest Plant Protein -Unflavored - 1 kg",
+        "available": true
+      },
+      {
+        "id": 50982521471160,
+        "title": "Pack of 3",
+        "price": 3325.0,
+        "compare_at_price": 3868.0,
+        "sku": "Honest Plant Protein -Unflavored - 1.5 kg",
+        "available": true
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 9266231443640,
+    "handle": "honest-plant-protein-coffee-mocha-1",
+    "title": "Honest Plant Protein - Coffee Mocha",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "Men",
+      "new",
+      "old",
+      "Plant Protein",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Coffee.webp?v=1761228275",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Coffee_12_march_2.png?v=1773294290",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/8_b42de192-4654-45ab-bdd9-7f0cdfbbf92a.png?v=1773294290",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Coffee_12_march_4.png?v=1773294290",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_c77f21f7-ae18-4125-b4e1-bd83b29c7cc6.png?v=1773294290",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Coffee_12_march_5.png?v=1773294290",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM_1.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/coffeereport_page-0002.jpg?v=1774876074",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/coffeereport_page-0001.jpg?v=1774876074",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_2.jpg?v=1774876074",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_7.jpg?v=1774876074",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/9-sachet.webp?v=1774876074",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/9_bb37c67a-63f4-4c94-bb98-cfb1970b0d1f.png?v=1774876074",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/5_6.jpg?v=1774876074",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Coffee_12_march_12.png?v=1774876074"
+    ],
+    "variants": [
+      {
+        "id": 48793926402232,
+        "title": "Pack of 1",
+        "price": 1315.0,
+        "compare_at_price": 1378.0,
+        "sku": "Honest Plant Protein - Coffee Mocha",
+        "available": true
+      },
+      {
+        "id": 50976944554168,
+        "title": "Pack of 2",
+        "price": 2395.0,
+        "compare_at_price": 2757.0,
+        "sku": "Honest Plant Protein - Coffee Mocha - 1kg",
+        "available": true
+      },
+      {
+        "id": 50976944586936,
+        "title": "Pack of 3",
+        "price": 3509.0,
+        "compare_at_price": 4135.0,
+        "sku": "Honest Plant Protein - Coffee Mocha - 1.5kg",
+        "available": true
+      },
+      {
+        "id": 48793926435000,
+        "title": "6 sachets",
+        "price": 799.0,
+        "compare_at_price": 871.0,
+        "sku": "PROTEIN-SACHET-COFFEE MOCHA",
+        "available": true
+      }
+    ],
+    "description": "A clean, plant-based protein made with yellow peas and brown rice for 24g of protein, with a rich coffee mocha taste. No thickeners, emulsifiers, or preservatives. Just clean nutrition to support muscle recovery, energy and immunity."
+  },
+  {
+    "id": 9253983944888,
+    "handle": "multivitamin-women-40-calcium-d3-k2",
+    "title": "Multivitamin Women 40+ & Calcium+D3+K2",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "multivitamin"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_57011379-9cb8-41d0-ad9e-74b3daf3fe04.png?v=1740581037",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/women_mv18_WMV_40_3.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/calcium_ingredients.jpg?v=1774450126",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Calcium2-03-2026_1_3d4bc801-9814-4872-84e8-5b0e95855b35.png?v=1774450086",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_e74daef0-a2f8-4708-8a08-308b873d5050.png?v=1774450086",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Calcium_3_f74d986d-0bbb-4ba5-aefb-77f58efbff3c.png?v=1774450126",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_47df08c9-1daf-4ce1-a618-de0f79a67f8d.jpg?v=1774450086",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/women40_fc28b6d8-dfe4-4d4e-a78e-d23984d22983.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Calcium_D3_K2_d6db9500-6069-471f-913f-73ef8b151129.png?v=1774450126",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MV40_-1.jpg?v=1775213326",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MV40_-2.jpg?v=1775213326"
+    ],
+    "variants": [
+      {
+        "id": 48734429970616,
+        "title": "Default Title",
+        "price": 1178.0,
+        "compare_at_price": 1333.0,
+        "sku": "Mv40andCalcium combo",
+        "available": true
+      }
+    ],
+    "description": "A clean, plant-based combo for women 40+ to support bone strength, hormonal balance, energy, and overall health during menopause. With nutrients like Calcium from algae, Vitamin D3 from lichen, and Vitamin C from Amla. No harmful synthetics or chemicals."
+  },
+  {
+    "id": 7117819805880,
+    "handle": "sleep",
+    "title": "Zen Mode Capsules",
+    "vendor": "Earthful",
+    "product_type": "Health & Beauty",
+    "tags": [
+      "5-HTP",
+      "Ashwagandha",
+      "blog_sleep",
+      "Chamomile",
+      "Magnesium",
+      "Marine minerals",
+      "Men",
+      "old",
+      "Passion",
+      "Tart",
+      "Velarian",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_a2febc47-4556-4eab-b5dc-891a3f3c173e.png?v=1740577334",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/2_e38698cd-3592-4768-b816-755d6831f2fa.png?v=1740577334",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/3_4_5cfe46b1-6630-4df7-b69c-0832e7adfd86.jpg?v=1740577334",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/4_3b0c4bc6-5c55-48cf-9a33-e298fea91b5f.png?v=1772712028",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/5_24b67c83-c13a-4fe7-9574-2387535453d5.png?v=1740577334",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_63d9665d-1120-4c90-acc5-7cd1d58c258e.png?v=1775214050",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Zen_Mode_-1_5b3b8fea-79ec-45b7-8b18-5556984d32e0.jpg?v=1775214122",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Zen_Mode_-2_f044f8ee-fb43-47c1-980a-1da252f5444d.jpg?v=1775214122"
+    ],
+    "variants": [
+      {
+        "id": 50992518168760,
+        "title": "Pack of 1",
+        "price": 583.0,
+        "compare_at_price": 666.0,
+        "sku": "SLEEP_CAP",
+        "available": true
+      },
+      {
+        "id": 50992518201528,
+        "title": "Pack of 2",
+        "price": 1129.0,
+        "compare_at_price": 1333.0,
+        "sku": "Zen_Mode Pack of 2",
+        "available": true
+      },
+      {
+        "id": 50992518234296,
+        "title": "Pack of 3",
+        "price": 1634.0,
+        "compare_at_price": 1999.0,
+        "sku": "Zen_Mode  Pack of 3",
+        "available": true
+      }
+    ],
+    "description": "A clean, plant-based sleep support made with natural melatonin from tart cherry, magnesium from marine minerals, and calming herbs like ashwagandha, chamomile, and valerian root. No additives or preservatives. A natural aid for restful sleep, relieving stress, and for a better sleep-wake cycle."
+  },
+  {
+    "id": 7413284634808,
+    "handle": "honest-plant-protein-vanilla",
+    "title": "Honest Plant Protein- Madagascar Vanilla",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "Men",
+      "old",
+      "Plant Protein",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Vanilla_12_march_1.png?v=1773293329",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Vanilla_12_march_2.png?v=1773293329",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Vanilla_12_march_4.png?v=1773293329",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/4_cfe6d515-2aef-43fc-9e0c-8d7e175f4502.png?v=1773293329",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_4a606b04-7da8-461d-84f6-46a6e75c140f.png?v=1773293329",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM_1.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/vanillareport_page-0001edited.jpg?v=1774876264",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/vanillareport_page-0002.jpg?v=1774876264",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Vanilla12march_9.png?v=1774876264",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Vanilla_12_march_11.png?v=1774876264",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/2_e3f701b3-b97c-4a50-b875-094ac3c3f474.png?v=1774876264",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/13_0cec121f-d7f7-43ad-8a21-e803e16a01ab.png?v=1774876264",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/9_4de3c0e0-ab07-4641-b5b0-58f6b9ae9573.png?v=1774876264",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Vanilla_12_march_13.png?v=1774876264",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Vanilla_12_march_7.png?v=1774876264"
+    ],
+    "variants": [
+      {
+        "id": 42773515567288,
+        "title": "Pack of 1",
+        "price": 1379.0,
+        "compare_at_price": 1423.0,
+        "sku": "Honest Plant Protein - Vanilla",
+        "available": true
+      },
+      {
+        "id": 50982660276408,
+        "title": "Pack of 2",
+        "price": 2416.0,
+        "compare_at_price": 2846.0,
+        "sku": "Honest Plant Protein - Vanilla - 1kg",
+        "available": true
+      },
+      {
+        "id": 50982660309176,
+        "title": "Pack of 3",
+        "price": 3581.0,
+        "compare_at_price": 4269.0,
+        "sku": "Honest Plant Protein - Vanilla - 1.5kg",
+        "available": true
+      },
+      {
+        "id": 43266895020216,
+        "title": "6 Sachets",
+        "price": 862.0,
+        "compare_at_price": 909.0,
+        "sku": "PROTEIN_SACHET_VANILLA",
+        "available": true
+      }
+    ],
+    "description": "Honest Plant Protein with 6 Ingredients only. Plant-based, no additives or preservatives. With pea &amp; brown rice for 24g protein, natural taste from Madagascar vanilla beans , sweetness from monk fruit &amp; ajwain powder for better digestion. Made for both women &amp; men."
+  },
+  {
+    "id": 7413293318328,
+    "handle": "honest-plant-protein-apple",
+    "title": "Honest Plant Protein - Apple",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "Men",
+      "old",
+      "Plant Protein",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_95b222d4-d471-4882-8eb2-f5d6c7e84593.png?v=1740663926",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Apple12march_1.png?v=1773293537",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/AppleProteinPouch2-03-2026_1.png?v=1773293537",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Apple12march_6.png?v=1773293537",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/AppleProteinPouch2-03-2026_3.png?v=1773293537",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Apple_Cardamom_-1.jpg?v=1775213846",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Apple_Cardamom_-2.jpg?v=1775213846",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_b496fd5c-e5cd-4617-b1be-5f92e771d96b.png?v=1775213846",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Apple12march_3.png?v=1775213846"
+    ],
+    "variants": [
+      {
+        "id": 42773568389304,
+        "title": "Pack of 1",
+        "price": 1250.0,
+        "compare_at_price": 1289.0,
+        "sku": "Honest Plant Protein - Apple Cardamom",
+        "available": true
+      },
+      {
+        "id": 50982593429688,
+        "title": "Pack of 2",
+        "price": 2422.0,
+        "compare_at_price": 2579.0,
+        "sku": "Honest Plant Protein - Apple Cardamom - 1kg",
+        "available": true
+      },
+      {
+        "id": 50982593462456,
+        "title": "Pack of 3",
+        "price": 3556.0,
+        "compare_at_price": 3868.0,
+        "sku": "Honest Plant Protein - Apple Cardamom - 1.5kg",
+        "available": true
+      }
+    ],
+    "description": "A clean, plant-based protein without any artificial ingredients. Perfect blend of pea and brown rice for 18g of protein, natural sweetness from monk fruit and ajwain powder for better digestion. Low GI levels to maintain steady Glucose levels all day long. No additives, thickeners or preservatives."
+  },
+  {
+    "id": 7413243674808,
+    "handle": "honest-plant-protein-mango",
+    "title": "Honest Plant Protein - Alphonso Mango",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "Men",
+      "old",
+      "Plant Protein",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_41a58921-aaf6-4513-8f00-47dab0259e53.png?v=1740577978",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mango_Protein_12_March_2.png?v=1773293114",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mango_Protein_12_March_5.png?v=1773293114",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mango2-3-2026_3.png?v=1773293114",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mango2-3-2026_2.png?v=1773293114",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM_1.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/magoreport_page-0001.jpg?v=1774875995",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/magoreport_page-0002.jpg?v=1774875995",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mango_Protein_12_March_6.png?v=1774875995",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_c7ed004b-f2d6-4a2f-900e-f3499b9105e5.png?v=1774875995",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mango_Protein_12_March_9.png?v=1774875995",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mango_Protein_12_March_11.png?v=1774875995",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mango2-3-2026_4.png?v=1774875995",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/10_a9de21bf-4202-4ecc-8d3d-4e3c943d3c25.png?v=1774875995",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mango_Protein_12_March_12.png?v=1774875995"
+    ],
+    "variants": [
+      {
+        "id": 42773222391992,
+        "title": "Pack of 1",
+        "price": 1252.0,
+        "compare_at_price": 1378.0,
+        "sku": "Honest Plant Protein - Mango",
+        "available": true
+      },
+      {
+        "id": 50982626787512,
+        "title": "Pack of 2",
+        "price": 2448.0,
+        "compare_at_price": 2757.0,
+        "sku": "Honest Plant Protein - Mango - 1 kg",
+        "available": true
+      },
+      {
+        "id": 50982626820280,
+        "title": "Pack of 3",
+        "price": 3589.0,
+        "compare_at_price": 4135.0,
+        "sku": "Honest Plant Protein - Mango - 1.5 kg",
+        "available": true
+      },
+      {
+        "id": 43266874867896,
+        "title": "6 Sachets",
+        "price": 799.0,
+        "compare_at_price": 871.0,
+        "sku": "PROTEIN_SACHET_MANGO",
+        "available": true
+      }
+    ],
+    "description": "Honest Plant Protein with 6 Ingredients ONLY. 100% Plant. For Women &amp; Men."
+  },
+  {
+    "id": 6901190721720,
+    "handle": "multivitamin-18",
+    "title": "Multivitamin Women 18+",
+    "vendor": "Earthful",
+    "product_type": "Vitamins & Supplements",
+    "tags": [
+      "Algae_Calcium",
+      "Algae_Magnesium",
+      "Amla",
+      "b complex",
+      "Basil & Guava",
+      "Basil_Biotin",
+      "biotin",
+      "blog_women",
+      "bone",
+      "Fermented_k2",
+      "folate",
+      "Gokshura",
+      "Guava Leaf",
+      "immunity",
+      "iron",
+      "Lichen-d",
+      "Moringa",
+      "multivitamin",
+      "Mustard",
+      "old",
+      "selenium",
+      "Shatavari",
+      "Sunflower",
+      "upsell",
+      "vitamin b7",
+      "vitamin c",
+      "vitamin d",
+      "Vitamin D3",
+      "vitamin e",
+      "Whatsapp Shop All",
+      "Women",
+      "Wowcart",
+      "ZINC_Guava Leaf"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Women18_webp_1.webp?v=1761851214",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Women18_webp_6.webp?v=1761851214",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WN_women18.jpg?v=1773294923",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mv18_Women2-03-2026_1.png?v=1773294923",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Mv18_Women2-03-2026_2.png?v=1773294923",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Women_Multivitamin_18_-1.jpg?v=1775210565",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Women_Multivitamin_18_-2.jpg?v=1775210565",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Women18_webp_2.webp?v=1775210565",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Women18_webp_3.webp?v=1775210565"
+    ],
+    "variants": [
+      {
+        "id": 50976959267000,
+        "title": "Pack of 1",
+        "price": 634.0,
+        "compare_at_price": 711.0,
+        "sku": "MV_WMN18",
+        "available": true
+      },
+      {
+        "id": 50976959299768,
+        "title": "Pack of 2",
+        "price": 1234.0,
+        "compare_at_price": 1422.0,
+        "sku": "WMN_MV_18+ Pack of 2",
+        "available": true
+      },
+      {
+        "id": 50976959332536,
+        "title": "Pack of 3",
+        "price": 1786.0,
+        "compare_at_price": 2133.0,
+        "sku": "WMN_MV_18+ Pack of 3",
+        "available": true
+      }
+    ],
+    "description": "A clean, plant-based supplement made for women's complete health. Contains 12 essential nutrients like Vitamin D3 from lichen, Vitamin C from amla &amp; more. It helps support hormonal balance, bone strength, immunity, and better hair &amp; skin. No harmful chemicals or synthetics."
+  },
+  {
+    "id": 7287377461432,
+    "handle": "plant-protein",
+    "title": "Honest Plant Protein - Indonesian Cocoa",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "Men",
+      "old",
+      "Plant Protein",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Cocoa_12_march_1.png?v=1773292816",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Cocoa_12_march_2.png?v=1773292816",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Cocoa_12_march_3.png?v=1773292816",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/CocoaProtein2-03-2026_1.png?v=1773292816",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/CocoaProtein2-03-2026_2_84f027cd-6d88-4ce6-aa7b-89936f573d38.png?v=1773292816",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Cocoa_12_march_4.png?v=1773292816",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/10.jpg?v=1773292816",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WhatsApp_Image_2026-03-27_at_11.35.54_AM_1.jpg?v=1774592103",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/cocoareport-1edited.jpg?v=1774876110",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/cocoareport_page-0002.jpg?v=1774876110",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Cocoa_12_march_7.png?v=1774876110",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Cocoa_12_march_8.png?v=1774876110",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Cocoa_12_march_9.png?v=1774876110",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Cocoa_12_march_15.png?v=1774876110",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Cocoa_12_march_14.png?v=1774876110",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Cocoa_12_march_16.png?v=1774876110"
+    ],
+    "variants": [
+      {
+        "id": 42582572630200,
+        "title": "Pack of 1",
+        "price": 1250.0,
+        "compare_at_price": 1378.0,
+        "sku": "COCOPROTEIN",
+        "available": true
+      },
+      {
+        "id": 50982608076984,
+        "title": "Pack of 2",
+        "price": 2389.0,
+        "compare_at_price": 2757.0,
+        "sku": "Honest Plant Protein_Indonesian Cocoa - 1kg",
+        "available": true
+      },
+      {
+        "id": 50982608109752,
+        "title": "Pack of 3",
+        "price": 3460.0,
+        "compare_at_price": 4135.0,
+        "sku": "Honest Plant Protein_Indonesian Cocoa - 1.5kg",
+        "available": true
+      },
+      {
+        "id": 42582572662968,
+        "title": "6 Sachets",
+        "price": 653.0,
+        "compare_at_price": 747.0,
+        "sku": "PROTEIN_SACHET",
+        "available": true
+      }
+    ],
+    "description": "Honest Plant Protein with 6 Ingredients only. Plant-based, no additives or preservatives. With pea &amp; brown rice for 24g protein, natural taste from cocoa beans, sweetness from monk fruit &amp; ajwain powder for better digestion. Made for women &amp; men."
+  },
+  {
+    "id": 7245330612408,
+    "handle": "pcos-balance-inositol-chasteberry",
+    "title": "HerSupport",
+    "vendor": "Earthful",
+    "product_type": "",
+    "tags": [
+      "old",
+      "upsell",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Her_Support_Webp_10.webp?v=1761850149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Her_Support_Webp_17.webp?v=1761850149",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WN_Hersupport.jpg?v=1773294504",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Hersupport2-03-2026_1.png?v=1773294504",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Hersupport2-03-2026_2.png?v=1773294504",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Her_Support_Webp_13.webp?v=1773294504",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Her_Support_Webp_15.webp?v=1773294504",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Her_Support_Webp_12.webp?v=1773294504",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Her_Support_Webp_14.webp?v=1773294504"
+    ],
+    "variants": [
+      {
+        "id": 51002009157816,
+        "title": "Pack of 1",
+        "price": 589.0,
+        "compare_at_price": 622.0,
+        "sku": "PCOS_01",
+        "available": true
+      },
+      {
+        "id": 51002009190584,
+        "title": "Pack of 2",
+        "price": 1155.0,
+        "compare_at_price": 1244.0,
+        "sku": "HerSupport_C Pack of 2",
+        "available": true
+      },
+      {
+        "id": 51002009223352,
+        "title": "Pack of 3",
+        "price": 1695.0,
+        "compare_at_price": 1866.0,
+        "sku": "HerSupport_C Pack of 3",
+        "available": true
+      }
+    ],
+    "description": "A natural, plant-based supplement designed for women experiencing hormonal imbalance. Its a 6-in-1 hormonal support formula with Inositol, Chromium, Chasteberry, Cinnamon, Shatavari, and Fennel. Helps reduce acne, facial hair and manage insulin levels. No harmful synthetics or chemicals."
+  },
+  {
+    "id": 7210110517432,
+    "handle": "menmultivitamin",
+    "title": "Multivitamin Men 18+",
+    "vendor": "Earthful",
+    "product_type": "Vitamins & Supplements",
+    "tags": [
+      "folate",
+      "Guava Zinc",
+      "iron",
+      "Men",
+      "multivitamin",
+      "old",
+      "selenium",
+      "upsell",
+      "vitamin c",
+      "vitamin d",
+      "vitamin e",
+      "Whatsapp Shop All"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_b1bbf75f-cf40-434f-be5c-f808a51bb983.png?v=1740576909",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/2_7be66046-fe8b-42f0-ad53-1ceb5b693ea0.png?v=1740576909",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WN_men18.jpg?v=1773294841",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/8_bf2e442a-b8b8-41cd-ae50-352929f0e701.png?v=1773294841",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_b7256243-9710-4472-ace2-c1780c7c26d2.png?v=1773294841",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Men_Multivitamin_18_-1.jpg?v=1775209868",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Men_Multiviatmin_18_-2.jpg?v=1775209868",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_13a7bb44-5059-40a5-81e1-83c3e3cf8275.png?v=1775209868"
+    ],
+    "variants": [
+      {
+        "id": 50957781631160,
+        "title": "Pack of 1",
+        "price": 634.0,
+        "compare_at_price": 711.0,
+        "sku": "MV_MEN18",
+        "available": true
+      },
+      {
+        "id": 50957781663928,
+        "title": "Pack of 2",
+        "price": 1234.0,
+        "compare_at_price": 1422.0,
+        "sku": "MEN_MV Pack of 2",
+        "available": true
+      },
+      {
+        "id": 50957781696696,
+        "title": "Pack of 3",
+        "price": 1786.0,
+        "compare_at_price": 2133.0,
+        "sku": "MEN_MV Pack of 3",
+        "available": true
+      }
+    ],
+    "description": "A clean, plant-based supplement made for men's complete health. Contains 12 essential nutrients like Vitamin D3 from lichen, Vitamin C from amla &amp; more. It helps support bone strength, immunity, energy and better hair &amp; skin. No harmful chemicals or synthetics."
+  },
+  {
+    "id": 7113891905720,
+    "handle": "womenmulti50",
+    "title": "Multivitamin Women 40+",
+    "vendor": "Earthful",
+    "product_type": "Vitamins & Supplements",
+    "tags": [
+      "Algae_Calcium",
+      "Algae_Magnesium",
+      "Amla",
+      "Basil & Guava",
+      "Basil_Biotin",
+      "blog_menopause",
+      "Fermented Chickpeas",
+      "Fermented_k2",
+      "Gokshura",
+      "Guava Zinc",
+      "multivitamin",
+      "Mustard",
+      "old",
+      "Shatavari",
+      "Sunflower",
+      "Vitamin D3",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_c00a5622-e15a-439e-ac4a-771a085931da.png?v=1740577163",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/2_75adc304-72c2-4329-bd52-7d4ee04f8969.png?v=1740577163",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_9374af9e-8063-44a2-90d9-9179873f5b3d.png?v=1773383439",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/women_mv18_WMV_40_3.png?v=1774450171",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_d8357561-ecbf-4f6b-a9f1-9c00bb318c3c.png?v=1774449958",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MV40_-1.jpg?v=1775213326",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/MV40_-2.jpg?v=1775213326",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/6_6ce51508-2473-4413-b33d-bc50e8435b6c.png?v=1775213326",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WN_mv40.jpg?v=1775213326"
+    ],
+    "variants": [
+      {
+        "id": 51002099925176,
+        "title": "Pack of 1",
+        "price": 634.0,
+        "compare_at_price": 711.0,
+        "sku": "MV_WMN50",
+        "available": true
+      },
+      {
+        "id": 51002099957944,
+        "title": "Pack of 2",
+        "price": 1248.0,
+        "compare_at_price": 1422.0,
+        "sku": "WMN_MV_40+ Pack of 2",
+        "available": true
+      },
+      {
+        "id": 51002099990712,
+        "title": "Pack of 3",
+        "price": 1829.0,
+        "compare_at_price": 2133.0,
+        "sku": "WMN_MV_40+ Pack of 3",
+        "available": true
+      }
+    ],
+    "description": "Natural, plant-based supplement made specifically for menopausal women. This is a unique blend of phytoestrogen-rich herbs like shatavari &amp; gokshura, vitamins &amp; minerals sourced solely from plants. Supports hormonal balance, while nutrients like calcium and vitamin D3 help ease knee pain."
+  },
+  {
+    "id": 7209866199224,
+    "handle": "teens-multivitamin",
+    "title": "Multivitamin For Teens",
+    "vendor": "Earthful",
+    "product_type": "Vitamins & Supplements",
+    "tags": [
+      "Men",
+      "multivitamin",
+      "Multivitamins",
+      "old",
+      "teens",
+      "upsell",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_aec29cad-2dd9-4846-a47e-7662d721a2a8.png?v=1740577245",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/2_eb564b9f-8cc7-427c-af04-3bc542277f14.png?v=1740577245",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WN_teenMV.jpg?v=1773294728",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WN_TeenCalcium.jpg?v=1773294736",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/4_45b583e0-abee-439d-aee5-f48c5e853d31.png?v=1773294736",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/3_62ca9d94-9ed6-4c5b-8661-385deddbcae7.png?v=1775211295",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/teen_mv_10_report_page-0001.jpg?v=1775211295",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/teen_mv_10_report_page-0002_UPDATED.jpg?v=1775211295",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/7_9d9503a4-5c96-4fd4-a6bf-9e70edaf99ad.png?v=1775211295",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Teens_Calcium_-1.jpg?v=1775211295",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Teens_Calcium_-2.jpg?v=1775211295",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/TeenMv.png?v=1775211295",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/TeenCalcium_D3_K2.png?v=1775211295"
+    ],
+    "variants": [
+      {
+        "id": 51001920422072,
+        "title": "Pack of 1",
+        "price": 634.0,
+        "compare_at_price": 711.0,
+        "sku": "MV_TEEN01",
+        "available": true
+      },
+      {
+        "id": 51001920454840,
+        "title": "Pack of 2",
+        "price": 1234.0,
+        "compare_at_price": 1422.0,
+        "sku": "TEEN_MV_BON Pack of 2",
+        "available": true
+      },
+      {
+        "id": 51001920487608,
+        "title": "Pack of 3",
+        "price": 1786.0,
+        "compare_at_price": 2133.0,
+        "sku": "TEEN_MV_BON Pack of 3",
+        "available": true
+      }
+    ],
+    "description": "A complete vitamin and bone health combo supplement. Made only from plants, no harmful chemicals or synthetics. With essential nutrients like Iron from curry leaf, Calcium from marine algae, and vitamin D3 from lichen. Supports energy, immunity, hair, skin and overall growth."
+  },
+  {
+    "id": 7113893773496,
+    "handle": "bone",
+    "title": "Calcium + D3 + K2",
+    "vendor": "Earthful",
+    "product_type": "Vitamins & Supplements",
+    "tags": [
+      "Algae_Calcium",
+      "Algae_Magnesium",
+      "blog_bone",
+      "Fermented_k2",
+      "Lichen-d",
+      "Men",
+      "multivitamin",
+      "old",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/1_c110136e-ad55-46f6-94fb-9a55367cd34e.png?v=1740576445",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/2_3c24ea2e-16a6-43f6-88a2-f524af276fe2.png?v=1740576445",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Calcium_D3_K2_Pink_tiger.png?v=1759318639",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/calciumingredients.jpg?v=1774525546",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Calcium2-03-2026_1.png?v=1774525546",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Calcium2-03-2026_2.png?v=1774525546",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Final_pdf_Calcium_D3_k2_page-0001.jpg?v=1774525546",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Final_pdf_Calcium_D3_k2_page-0002.jpg?v=1774525546",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/4_utmost_bones.png?v=1774525546",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Calcium_D3_K2_1a044878-c989-4764-b389-e1f1ac05d206.png?v=1774525546",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WN_calcium.jpg?v=1774525546"
+    ],
+    "variants": [
+      {
+        "id": 51001891619000,
+        "title": "Pack of 1",
+        "price": 544.0,
+        "compare_at_price": 622.0,
+        "sku": "H_BONE_01",
+        "available": true
+      },
+      {
+        "id": 51001891651768,
+        "title": "Pack of 2",
+        "price": 1066.0,
+        "compare_at_price": 1244.0,
+        "sku": "Calcium_D3_K2_Pack of 2",
+        "available": true
+      },
+      {
+        "id": 51001891684536,
+        "title": "Pack of 3",
+        "price": 1562.0,
+        "compare_at_price": 1866.0,
+        "sku": "Calcium_D3_K2_Pack of 3",
+        "available": true
+      }
+    ],
+    "description": "A combination of all the essential nutrients necessary for healthy bones is packed in this plant capsule. With the purity of natural sources and no synthetic ingredients. Get calcium from marine algae, Vitamin D3 from lichen and Vitamin K2 from fermented chickpeas. Supports bone strength, bone mass and density."
+  },
+  {
+    "id": 7113897410744,
+    "handle": "skin",
+    "title": "Inner Glow Blend",
+    "vendor": "Earthful",
+    "product_type": "Health & Beauty",
+    "tags": [
+      "Amla",
+      "BIOTIN",
+      "blog_skin",
+      "buck thorn",
+      "Green Tea",
+      "Men",
+      "old",
+      "Omega",
+      "Protein",
+      "Resveratrol",
+      "Sesbania",
+      "shoot",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Skin_webp_6.webp?v=1761850519",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Skin_webp_2.webp?v=1761850519",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/WN_Innerglow.jpg?v=1773294545",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/InnerGlow.png?v=1773294545",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Skin_webp_8.webp?v=1773294545",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Skin_webp_5.webp?v=1773294545",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Inner_Glow_-1.jpg?v=1775213923",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Inner_Glow_-2.jpg?v=1775213923"
+    ],
+    "variants": [
+      {
+        "id": 51002081444024,
+        "title": "Pack of 1",
+        "price": 680.0,
+        "compare_at_price": 711.0,
+        "sku": "SKIN_B_BLEND01",
+        "available": true
+      },
+      {
+        "id": 51002081476792,
+        "title": "Pack of 2",
+        "price": 1321.0,
+        "compare_at_price": 1422.0,
+        "sku": "Inner_Glow Pack of 2",
+        "available": true
+      }
+    ],
+    "description": "Earthful Plant-Based Inner Glow Blend Supplement is a vegan formula designed to boost collagen for youthful, radiant skin while hydrating and nourishing. Enriched with Biotin, Omega-3, and antioxidants like Vitamin C and Resveratrol, it ensures easy absorption for visible results without bloating. Collagen Building : Promotes collagen building with plant-based ingredients like Pea Protein, Vitamin C, and Silica for healthy, glowing skin. Youthful &amp; Radiant Skin : Promotes a glowing, youthful skin by boosting collagen with plant-based ingredients like Amla and Vitamin C. Natural Ingredients : Formulated with plant-based ingredients, including Omega-3 from Flaxseeds and Resveratrol from Japanese knotweed. Our Clean Promise: No Additives, No Synthetics, No Chemicals, No Fillers, No GMO. No Artificial Flavours."
+  },
+  {
+    "id": 7113896263864,
+    "handle": "hair",
+    "title": "Root Nourish Capsules",
+    "vendor": "Earthful",
+    "product_type": "Hair Growth",
+    "tags": [
+      "Acerola",
+      "blog_hair",
+      "Grape Seed",
+      "Leaves",
+      "Men",
+      "Moringa",
+      "old",
+      "Pumpkin Seed",
+      "Quercitine",
+      "Saw Palmetto",
+      "Sesbania",
+      "shoot",
+      "Whatsapp Shop All",
+      "Women"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Root_webp_5.webp?v=1761851506",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Root_webp_4.webp?v=1761851506",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Root_webp_7.webp?v=1772712018",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/RootNourishCapsules.png?v=1772712018",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Root_webp_6.webp?v=1772449955",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Root_Nourish_-1.jpg?v=1775214313",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Root_Nourish_-2.jpg?v=1775214313",
+      "https://cdn.shopify.com/s/files/1/0600/8356/8824/files/Root_webp_3.webp?v=1775214313"
+    ],
+    "variants": [
+      {
+        "id": 51001984319672,
+        "title": "Pack of 1",
+        "price": 658.0,
+        "compare_at_price": 711.0,
+        "sku": "HAIR_G_CAP",
+        "available": true
+      },
+      {
+        "id": 51001984352440,
+        "title": "Pack of 2",
+        "price": 1277.0,
+        "compare_at_price": 1422.0,
+        "sku": "Root_Nourish Pack of 2",
+        "available": true
+      },
+      {
+        "id": 51001984385208,
+        "title": "Pack of 3",
+        "price": 1851.0,
+        "compare_at_price": 2133.0,
+        "sku": "Root_Nourish Pack of 3",
+        "available": true
+      }
+    ],
+    "description": "A clean, plant-based formula to support stronger, healthier hair. With natural herbs, biotin, Vitamin A and antioxidant-packed grape seeds. It also contains DHT blockers like pumpkin seed and nettle leaf to help strengthen roots and improve hair quality. No harmful chemicals or synthetics."
+  }
+]
