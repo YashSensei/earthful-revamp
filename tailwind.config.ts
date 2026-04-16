@@ -11,7 +11,9 @@ export default {
         cream: "#FFFAF3",
         ink: "#121212",
         earth: {
-          orange: "#FFC573",
+          orange: "#FFC773",
+          footer: "#FFC773",
+          footerText: "#404040",
           olive: "#69744C",
           oliveDark: "#23271A",
           cream: "#FFFAF3",
